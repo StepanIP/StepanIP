@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stepan Skrypnychuk</h1>
 <h3 align="center">Hello there! I'm a passionate Java developer with a keen interest in crafting efficient and scalable applications. My journey in the world of programming has been filled with exciting challenges and rewarding experiences. From building robust back-end systems to creating user-friendly interfaces, I strive to deliver high-quality code and innovative solutions. Let's connect and collaborate on projects that push the boundaries of Java development!</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stepanip&label=Profile%20views&color=0e75b6&style=flat" alt="stepanip" /> </p>
 
 - 🔭 I’m currently upgrating my pet project [ENS-system](https://github.com/StepanIP/emergency-notification-system)
