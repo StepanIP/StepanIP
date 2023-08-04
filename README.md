@@ -38,9 +38,3 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" alt="Maven" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" alt="IntelijiIDEA" width="40" height="40"/> </a>
 </p>
-<p width="40" height="40">
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StepanIP&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=StepanIP&theme=tokyonight&hide_border=true)<br/>
-</p>
