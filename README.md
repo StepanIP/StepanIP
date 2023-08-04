@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stepanip&label=Profile%20views&color=0e75b6&style=flat" alt="stepanip" /> 
 </p>
 
-<a href="https://www.codewars.com/users/pumlicPupka" target="_blank">![codewars](https://www.codewars.com/users/pumlicPupka/badges/small)</a> 
+<a href="https://www.codewars.com/users/Skrypnychuk%20Stepan" target="_blank">![codewars](https://www.codewars.com/users/Skrypnychuk%20Stepan/badges/small)</a> 
 
 - 🔭 I’m currently upgrating my pet project [ENS-system](https://github.com/StepanIP/emergency-notification-system)
 
